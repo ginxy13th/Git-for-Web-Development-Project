@@ -1,3 +1,5 @@
+ https://codepen.io/ginxy13th/pen/mdVbNOr?editors=1000
+ 
  1. What is Semantic HTML? the biulding blocks of web development
     2. What is HTML used for? used to establish different elements
     3. What is an attribute and where do we put it? it provides additional information about elements, in the tag
